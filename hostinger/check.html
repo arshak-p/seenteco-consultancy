@@ -1,0 +1,14 @@
+<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex"><title>Seenteco asset check</title>
+<body style="font:15px system-ui;padding:24px;max-width:760px"><h2>Seenteco asset check</h2>
+<p>Every line should say <b style="color:#0a7a2f">OK</b>. Anything red means that file is missing or broken on the server.</p><div id="o"></div>
+<script>
+const files=['assets/globe-tex.jpg','assets/globe.png','assets/prop-turbine.png','assets/prop-rotor.png','assets/prop-panel.png','assets/prop-leafL.png','assets/prop-leafR.png','img/riyadh.jpg','globe.js','app.js','styles.css','ui.css','api/enquiry.php'];
+const o=document.getElementById('o');
+files.forEach(async f=>{const row=document.createElement('p');row.textContent=f+' ... ';o.appendChild(row);
+ try{const r=await fetch(f+'?c='+Date.now(),{method:f.endsWith('.php')?'POST':'GET',body:f.endsWith('.php')?'{}':undefined});
+  const t=r.headers.get('content-type')||'',len=r.headers.get('content-length')||'?';
+  const ok=f.endsWith('.php')?(r.status===400||r.status===422):r.ok;
+  row.innerHTML=f+' &mdash; HTTP '+r.status+', '+t+', '+len+' bytes &mdash; '+(ok?'<b style="color:#0a7a2f">OK</b>':'<b style="color:#c00">PROBLEM</b>');
+  if(f==='assets/globe-tex.jpg'){const im=new Image();im.onload=()=>{row.innerHTML+=' | decoded '+im.naturalWidth+'x'+im.naturalHeight+(im.naturalWidth===2048?'':' <b style="color:#c00">(should be 2048x1024)</b>')+'<br><img src="'+f+'?c=1" style="width:100%;margin-top:6px;border:1px solid #ccc">'};im.onerror=()=>row.innerHTML+=' | <b style="color:#c00">image cannot be decoded</b>';im.src=f+'?c='+Date.now()}
+ }catch(e){row.innerHTML=f+' &mdash; <b style="color:#c00">FAILED: '+e.message+'</b>'}});
+</script>

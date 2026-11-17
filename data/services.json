@@ -1,0 +1,514 @@
+{
+ "sustainability-esg": {
+  "name": "Sustainability & ESG",
+  "services": [
+   {
+    "title": "ESG strategy & roadmap",
+    "desc": "We find the sustainability issues that matter most to your business and your stakeholders, then turn them into clear targets and a phased plan.",
+    "inc": [
+     "materiality assessment",
+     "stakeholder interviews",
+     "peer benchmarking",
+     "targets and KPIs"
+    ],
+    "rec": "a board-ready ESG strategy and a three-year roadmap with owners and milestones."
+   },
+   {
+    "title": "Sustainability & ESG reporting (GRI · ISSB)",
+    "desc": "We collect, check and present your ESG data in a report investors and regulators trust.",
+    "inc": [
+     "framework selection",
+     "data collection templates",
+     "data quality review",
+     "drafting and design support"
+    ],
+    "rec": "a publication-ready sustainability report in Arabic and English, with a GRI or ISSB content index."
+   },
+   {
+    "title": "ESG readiness for listed & pre-IPO companies",
+    "desc": "We measure how ready you are for Saudi Exchange disclosure and close the gaps before investors find them.",
+    "inc": [
+     "gap assessment against Tadawul guidelines and CMA expectations",
+     "governance review",
+     "data systems review",
+     "board briefing"
+    ],
+    "rec": "a readiness scorecard and a prioritised plan to close every gap."
+   },
+   {
+    "title": "Carbon footprint & GHG inventory (Scope 1–3)",
+    "desc": "We calculate your full emissions profile to the GHG Protocol, so every number can be traced and defended.",
+    "inc": [
+     "boundary setting",
+     "data collection across sites",
+     "emission factor selection",
+     "Scope 3 screening",
+     "hotspot analysis"
+    ],
+    "rec": "a GHG inventory report and a calculation workbook ready for third-party verification."
+   },
+   {
+    "title": "Net-zero & decarbonisation roadmaps",
+    "desc": "We show exactly how you get from today's emissions to your target, and what each step costs.",
+    "inc": [
+     "reduction targets aligned with recognised methods",
+     "abatement options and cost curve",
+     "renewable and efficiency pathways",
+     "investment phasing"
+    ],
+    "rec": "a costed decarbonisation roadmap, year by year, ready for board approval."
+   },
+   {
+    "title": "Supplier ESG readiness",
+    "desc": "We prepare you for the sustainability questionnaires and ratings that large buyers now send with every tender.",
+    "inc": [
+     "review of buyer requirements",
+     "policy set (environment, health and safety, ethics)",
+     "evidence pack",
+     "questionnaire response support"
+    ],
+    "rec": "ready-to-use answers and documents that help you qualify and win."
+   },
+   {
+    "title": "Green building certification (Mostadam · LEED)",
+    "desc": "We guide your project through the rating system, from the first design workshop to the final certificate.",
+    "inc": [
+     "rating system selection",
+     "credit strategy and cost review",
+     "design and energy model reviews",
+     "documentation and submission"
+    ],
+    "rec": "a certified building, with a clear record of every credit achieved."
+   },
+   {
+    "title": "Circular economy & waste management (MWAN)",
+    "desc": "We turn waste from a cost into a managed resource and keep you compliant with national regulations.",
+    "inc": [
+     "waste audit and characterisation",
+     "reduction, reuse and recycling options",
+     "contractor and permit review",
+     "regulatory compliance check"
+    ],
+    "rec": "a waste management plan with targets, costs and a compliance checklist."
+   },
+   {
+    "title": "Climate risk assessment (ISSB S2)",
+    "desc": "We assess how climate change could affect your assets and business, from extreme heat and water stress to carbon pricing.",
+    "inc": [
+     "physical and transition risk screening",
+     "scenario analysis",
+     "financial impact estimates",
+     "disclosure drafting"
+    ],
+    "rec": "a climate risk register and an ISSB S2-aligned disclosure."
+   }
+  ],
+  "headline": "Make sustainability measurable.",
+  "intro": "Investors, regulators and major buyers now ask for ESG data. We help you build it on solid numbers, report it to recognised frameworks and turn it into a plan the board can back.",
+  "who": "Listed and pre-IPO companies, suppliers to Aramco, SABIC, Ma'aden and the giga-projects, and industrial and real estate groups setting net-zero targets.",
+  "gets": [
+   "A verified emissions baseline",
+   "A board-ready ESG strategy",
+   "A framework-aligned report",
+   "An action plan with owners and dates"
+  ],
+  "cta": "Start with the ESG & Carbon Starter."
+ },
+ "energy": {
+  "name": "Energy & Decarbonisation",
+  "services": [
+   {
+    "title": "Energy audits (ASHRAE L1–L3)",
+    "desc": "We measure where every kilowatt-hour goes, from chillers and lighting to compressed air and process loads, and turn it into a ranked list of savings.",
+    "inc": [
+     "site survey and spot metering",
+     "12–24 months of bill analysis",
+     "equipment and control checks",
+     "costed savings measures"
+    ],
+    "rec": "an audit report and savings register with cost, savings and payback for each measure."
+   },
+   {
+    "title": "HVAC, chiller & cooling optimisation",
+    "desc": "Cooling is usually the largest load in a Saudi building. We tune it to use less energy without making anyone less comfortable.",
+    "inc": [
+     "chiller plant performance tests",
+     "pump and fan review",
+     "setpoint and schedule optimisation",
+     "free-cooling and heat-recovery options"
+    ],
+    "rec": "an optimisation plan with quick wins and capital measures, and support to put them in place."
+   },
+   {
+    "title": "Lighting & motor efficiency",
+    "desc": "Proven, low-risk upgrades that often pay back fastest.",
+    "inc": [
+     "lighting and controls survey",
+     "motor and drive inventory",
+     "variable speed drive opportunities",
+     "specifications for procurement"
+    ],
+    "rec": "an upgrade package with savings, payback and technical specifications ready for tender."
+   },
+   {
+    "title": "Rooftop solar & battery storage feasibility",
+    "desc": "We tell you whether solar makes sense on your site, how big it should be and what it returns.",
+    "inc": [
+     "roof and structural screening",
+     "load profile analysis",
+     "system sizing and yield estimate",
+     "financial model",
+     "connection and permitting pathway"
+    ],
+    "rec": "a bankable feasibility study you can take to suppliers and finance."
+   },
+   {
+    "title": "Energy efficiency compliance (SEEC · SBC 601/602)",
+    "desc": "We check that your buildings and equipment meet Saudi energy codes and standards, and fix what doesn't.",
+    "inc": [
+     "code compliance review for new or existing buildings",
+     "envelope, HVAC and lighting checks",
+     "equipment efficiency checks",
+     "corrective action plan"
+    ],
+    "rec": "a compliance report and the documents you need for approvals."
+   },
+   {
+    "title": "Energy management systems (ISO 50001)",
+    "desc": "Savings fade without a system to sustain them. We build one that keeps energy performance improving every year.",
+    "inc": [
+     "energy review and baseline",
+     "energy performance indicators",
+     "policies, procedures and roles",
+     "internal audit and management review"
+    ],
+    "rec": "a working ISO 50001 system, a trained energy team and readiness for certification audit."
+   },
+   {
+    "title": "Measurement & verification (IPMVP)",
+    "desc": "Independent proof that savings are real, to the protocol banks, energy service companies and auditors recognise.",
+    "inc": [
+     "M&V plan and option selection",
+     "baseline model adjusted for weather and occupancy",
+     "metering plan",
+     "periodic savings reports"
+    ],
+    "rec": "verified savings reports you can show your board, your lender or your auditor."
+   },
+   {
+    "title": "Energy performance contracting",
+    "desc": "Upgrade now and pay from the savings. On selected projects, our fee is tied to the savings we verify.",
+    "inc": [
+     "investment-grade audit",
+     "savings guarantee structure",
+     "contract and risk-sharing terms",
+     "implementation oversight",
+     "ongoing M&V"
+    ],
+    "rec": "lower energy bills with little or no upfront capital, and verified results."
+   }
+  ],
+  "headline": "Cut the costs. Keep the comfort. Prove the savings.",
+  "intro": "Energy is one of the largest controllable costs in Saudi buildings and factories, and cooling drives most of it. We find where energy is wasted, rank every fix by payback and verify the savings once they are in place.",
+  "who": "Factories, commercial and residential buildings, warehouses, hotels, hospitals and universities.",
+  "gets": [
+   "A savings register ranked by payback",
+   "A business case for each measure",
+   "An M&V plan",
+   "Implementation support"
+  ],
+  "cta": "Start with an Energy Audit & Savings Plan."
+ },
+ "technology": {
+  "name": "Energy & Industrial Technology",
+  "services": [
+   {
+    "title": "Energy & carbon dashboards",
+    "desc": "One screen that shows how much energy each site, building or line uses, what it costs and what it emits.",
+    "inc": [
+     "data source mapping",
+     "KPI design",
+     "dashboard build in your chosen platform",
+     "user training"
+    ],
+    "rec": "live dashboards for managers and a monthly summary for leadership."
+   },
+   {
+    "title": "IoT energy monitoring & smart metering",
+    "desc": "You can't manage what you can't see. We design the metering that shows where energy goes, in real time.",
+    "inc": [
+     "metering strategy and point list",
+     "sensor and gateway specification",
+     "installation oversight with hardware partners",
+     "data validation"
+    ],
+    "rec": "a live, validated feed of energy data from your key systems."
+   },
+   {
+    "title": "Building management system (BMS) optimisation",
+    "desc": "Most building systems drift from their original settings over time. We bring yours back into line and make it work harder.",
+    "inc": [
+     "trend log review",
+     "schedule and setpoint corrections",
+     "control sequence tuning",
+     "fault detection rules"
+    ],
+    "rec": "lower energy use from equipment you already own, often with little or no capital spend."
+   },
+   {
+    "title": "Carbon accounting software selection & setup",
+    "desc": "Spreadsheets break as reporting grows. We help you choose the right platform and set it up properly the first time.",
+    "inc": [
+     "requirements definition",
+     "vendor shortlist and demos",
+     "configuration and data loading",
+     "user training"
+    ],
+    "rec": "a working carbon accounting platform that makes next year's report faster and more reliable."
+   },
+   {
+    "title": "AI-based predictive maintenance",
+    "desc": "Catch failing pumps, motors and chillers before they break down or start wasting energy.",
+    "inc": [
+     "critical asset selection",
+     "sensor and data review",
+     "anomaly detection models",
+     "alert workflow with your maintenance team"
+    ],
+    "rec": "early warnings on equipment faults, fewer breakdowns and lower maintenance costs."
+   },
+   {
+    "title": "SCADA modernisation advisory",
+    "desc": "Ageing control systems limit efficiency and raise risk. We plan the upgrade so it is safe, phased and secure.",
+    "inc": [
+     "current-state assessment",
+     "target architecture",
+     "migration plan with minimal downtime",
+     "operational cybersecurity requirements"
+    ],
+    "rec": "a modernisation roadmap and technical specifications ready for tender."
+   }
+  ],
+  "headline": "Turn data into decisions.",
+  "intro": "Most sites already collect energy and equipment data, but few use it. We connect meters, sensors and building systems to dashboards your managers actually use, then apply analytics to catch waste and failures early.",
+  "who": "Facility managers, plant operators, real estate portfolios and data centres.",
+  "gets": [
+   "One trusted source of energy data",
+   "Alerts on waste and faults",
+   "Reporting-ready data for ESG"
+  ],
+  "cta": "Ask about a monitoring pilot."
+ },
+ "operational-excellence": {
+  "name": "Operational Excellence & Management Systems",
+  "services": [
+   {
+    "title": "Integrated management systems (ISO 9001 · 14001 · 45001 · 50001)",
+    "desc": "One system instead of four: shared procedures, one audit programme and one management review covering quality, environment, safety and energy.",
+    "inc": [
+     "gap assessment",
+     "process mapping",
+     "documentation",
+     "internal auditor training",
+     "pre-certification audit"
+    ],
+    "rec": "a certification-ready integrated system that costs less to run than separate ones."
+   },
+   {
+    "title": "KPI & performance management",
+    "desc": "The right numbers, reviewed at the right level, at the right time.",
+    "inc": [
+     "strategy-to-KPI cascade",
+     "KPI definitions and targets",
+     "data ownership",
+     "dashboard and review rhythm"
+    ],
+    "rec": "a KPI framework and dashboard that connect daily work to company goals."
+   },
+   {
+    "title": "Lean Six Sigma process improvement",
+    "desc": "We remove waste, delays and variation from the processes that matter most, and measure the gain.",
+    "inc": [
+     "process selection",
+     "value stream mapping",
+     "root cause analysis",
+     "improvement workshops",
+     "control plans"
+    ],
+    "rec": "improvement projects with measured savings in cost, time or quality, and a team trained to keep improving."
+   },
+   {
+    "title": "Supply chain & procurement efficiency",
+    "desc": "Lower costs and shorter lead times, from supplier to shelf.",
+    "inc": [
+     "spend analysis",
+     "supplier review",
+     "inventory and warehouse review",
+     "logistics and transport optimisation"
+    ],
+    "rec": "a prioritised savings plan with quick wins and longer-term changes."
+   },
+   {
+    "title": "Risk management & compliance",
+    "desc": "Know your risks, control them and stay on the right side of Saudi regulations.",
+    "inc": [
+     "risk identification workshops",
+     "risk register and controls",
+     "regulatory obligations register",
+     "compliance calendar"
+    ],
+    "rec": "a living risk and compliance system that your management can review every quarter."
+   },
+   {
+    "title": "Change management",
+    "desc": "New systems only work if people use them. We plan the people side of every change.",
+    "inc": [
+     "stakeholder and impact analysis",
+     "communication plan",
+     "training programme",
+     "adoption tracking"
+    ],
+    "rec": "faster adoption, fewer setbacks and changes that last."
+   }
+  ],
+  "headline": "Leaner processes. Certified systems. Clearer results.",
+  "intro": "Certifications open doors to tenders and major buyers. Done well, they also make the business run better. We design management systems that pass audit and that your people actually use.",
+  "who": "Manufacturers, contractors, suppliers bidding for government, Aramco and SABIC work, and service companies.",
+  "gets": [
+   "Certification-ready documentation",
+   "Trained internal auditors",
+   "A KPI dashboard",
+   "Improvement projects with measured savings"
+  ],
+  "cta": "Start with Integrated ISO Systems."
+ },
+ "government": {
+  "name": "Government & Giga-Project Advisory",
+  "services": [
+   {
+    "title": "Local content & IKTVA strategy",
+    "desc": "A higher local content score wins contracts. We show you where your score comes from and how to raise it.",
+    "inc": [
+     "baseline score review",
+     "spend, workforce and supplier analysis",
+     "localisation opportunities",
+     "improvement plan and reporting support"
+    ],
+    "rec": "a practical plan to raise your local content score, with the evidence to back it up."
+   },
+   {
+    "title": "Project sustainability management for contractors",
+    "desc": "Giga-project clients set strict sustainability requirements. We help contractors meet them from mobilisation to handover.",
+    "inc": [
+     "project sustainability plan",
+     "site environmental and waste controls",
+     "monthly monitoring and reporting",
+     "site audits and corrective actions"
+    ],
+    "rec": "compliant reporting to your client and fewer surprises on site."
+   },
+   {
+    "title": "Energy transition advisory for public entities",
+    "desc": "Public buildings and assets are among the Kingdom's largest energy users. We help entities cut consumption and plan the move to cleaner energy.",
+    "inc": [
+     "portfolio energy benchmarking",
+     "efficiency programme design",
+     "renewable options",
+     "funding and procurement models",
+     "progress reporting"
+    ],
+    "rec": "an energy transition roadmap aligned with national targets, with a clear first phase."
+   }
+  ],
+  "headline": "Delivering on Vision 2030, project by project.",
+  "intro": "Government entities, giga-projects and their contractors carry the Kingdom's most ambitious targets. We help turn those targets into compliant, measurable delivery on the ground.",
+  "who": "Government entities, semi-government companies, and giga-project contractors and suppliers.",
+  "gets": [
+   "Compliance with client and regulator requirements",
+   "Stronger bid submissions",
+   "Reporting that stands up to audit"
+  ],
+  "cta": "Talk to our government advisory team."
+ },
+ "agriculture": {
+  "name": "Agriculture & Food Security",
+  "services": [
+   {
+    "title": "Smart irrigation & water efficiency (Drip · Sensors)",
+    "desc": "We design irrigation that delivers the right water, at the right time, to the right root zone.",
+    "inc": [
+     "water audit and irrigation survey",
+     "drip and subsurface system design",
+     "soil-moisture sensors and scheduling",
+     "pump and network efficiency"
+    ],
+    "rec": "an irrigation upgrade plan with water savings, cost and payback."
+   },
+   {
+    "title": "Solar-powered farms (PV pumping)",
+    "desc": "Diesel pumps are costly and polluting. We size solar pumping and farm solar systems that pay for themselves.",
+    "inc": [
+     "energy and pumping load review",
+     "solar pumping and battery sizing",
+     "financial model and diesel comparison",
+     "supplier specifications"
+    ],
+    "rec": "a bankable feasibility study ready for suppliers and finance."
+   },
+   {
+    "title": "Soil & fertiliser management (Fertigation)",
+    "desc": "We match nutrients to what the soil and crop actually need, so less fertiliser goes to waste.",
+    "inc": [
+     "soil and water testing",
+     "nutrient management plan",
+     "fertigation design and scheduling",
+     "soil health monitoring"
+    ],
+    "rec": "a seasonal fertiliser programme with expected savings."
+   },
+   {
+    "title": "Precision agriculture & farm monitoring (IoT · Satellite)",
+    "desc": "See every field on one screen and act before problems spread.",
+    "inc": [
+     "field sensor network",
+     "satellite and drone crop monitoring",
+     "farm dashboard for water, energy and yield",
+     "alert rules for your team"
+    ],
+    "rec": "a live farm dashboard and monthly performance reports."
+   },
+   {
+    "title": "Greenhouses & protected agriculture",
+    "desc": "Cooling is a major cost in Saudi greenhouses. We cut it, and we test new growing models before you invest.",
+    "inc": [
+     "greenhouse energy and cooling audit",
+     "climate control optimisation",
+     "hydroponic and vertical farm feasibility",
+     "technology and supplier review"
+    ],
+    "rec": "an optimisation plan for existing sites, or a feasibility study for new ones."
+   },
+   {
+    "title": "Farm sustainability & certification (Saudi GAP · GLOBALG.A.P.)",
+    "desc": "Buyers, exporters and investors want proof of good practice. We get you ready.",
+    "inc": [
+     "gap assessment against good agricultural practice standards",
+     "farm water and carbon footprint",
+     "records and traceability set-up",
+     "audit preparation"
+    ],
+    "rec": "a certification-ready farm and a sustainability report for buyers and investors."
+   }
+  ],
+  "headline": "Grow more with less water.",
+  "intro": "Agriculture uses most of the Kingdom's water, and food security is a national priority. We help farms and agribusinesses cut water, fertiliser and energy costs with smart irrigation, solar power and precise nutrient management.",
+  "who": "Commercial farms, greenhouse and hydroponic operators, date palm growers, agribusiness investors and food producers.",
+  "gets": [
+   "A water and energy baseline for your farm",
+   "A costed irrigation and solar plan",
+   "A soil and fertiliser programme",
+   "Monitoring that proves the savings"
+  ],
+  "cta": "Start with a Farm Water & Energy Assessment."
+ }
+}

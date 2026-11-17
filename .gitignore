@@ -1,0 +1,19 @@
+# dependencies and build output (re-created by npm install / npm run build)
+node_modules/
+.next/
+out/
+
+# local files that must never be committed
+.local-data/
+.env
+.env.*
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# saved enquiries or visit logs, if any ever end up here
+*.jsonl
+enquiries.log
+visits.log
+*.err
